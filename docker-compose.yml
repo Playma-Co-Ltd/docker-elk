@@ -108,7 +108,7 @@ services:
 
 networks:
   default:
-    name: autox_network
+    name: maiagent
     external: true
 
 volumes:
